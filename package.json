@@ -1,6 +1,6 @@
 {
   "name": "@amindunited/preact-custom-element",
-  "version": "3.0.0-amu-alpha.0",
+  "version": "3.0.0-amu-alpha.1",
   "description": "Wrap your component up as a custom element",
   "main": "dist/preact-custom-element.js",
   "module": "dist/preact-custom-element.esm.js",
@@ -15,7 +15,7 @@
   "eslintConfig": {
     "extends": "developit"
   },
-  "repository": "preactjs/preact-custom-element",
+  "repository": "amindunited/preact-custom-element",
   "keywords": [
     "preact",
     "web",
