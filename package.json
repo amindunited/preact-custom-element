@@ -15,7 +15,7 @@
   "eslintConfig": {
     "extends": "developit"
   },
-  "repository": "preactjs/preact-custom-element",
+  "repository": "amindunited/preact-custom-element",
   "keywords": [
     "preact",
     "web",
