@@ -47,5 +47,8 @@ function toVdom(element, nodeName) {
 		cn = element.childNodes;
 	for (i = a.length; i--; ) props[a[i].name] = a[i].value;
 	for (i = cn.length; i--; ) children[i] = toVdom(cn[i]);
+	// The childnodes are now in the virtual DOM, and the page DOM...
+	// Emptying the original html prevents childnodes and vDom children from doubling up
+	element.innerHTML = ``;
 	return h(nodeName || element.nodeName.toLowerCase(), props, children);
 }
