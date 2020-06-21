@@ -6,9 +6,6 @@ version: 2
 
 defaults: &defaults
   working_directory: ~/repo
-  branches:
-    only:
-      - amu-master
   docker:
     - image: circleci/node:12.16.3
 
