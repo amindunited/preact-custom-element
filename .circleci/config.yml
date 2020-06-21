@@ -66,6 +66,6 @@ workflows:
               only: /^v.*/
             branches:
               only:
-                - amu-master
+                - amu-trunk
               ignore: /.*/
 

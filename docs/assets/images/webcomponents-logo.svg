@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="160px" viewBox="0 -5 40 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <defs>
+        <linearGradient x1="-8.1118488e-07%" y1="49.9999994%" x2="99.999998%" y2="49.9999994%" id="linearGradient-1">
+            <stop stop-color="#2A3B8F" offset="0%"></stop>
+            <stop stop-color="#29ABE2" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100.000002%" y1="49.999996%" x2="-2.75984694e-06%" y2="49.999996%" id="linearGradient-2">
+            <stop stop-color="#B4D44E" offset="0%"></stop>
+            <stop stop-color="#E7F716" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Group" sketch:type="MSLayerGroup">
+            <path d="M38.9194346,15.9700544 L34.7027586,23.070549 L28.7897188,15.8731194 L34.7027586,8.86955982 L38.9194346,15.9700544 Z" id="Shape" fill="#166DA5" sketch:type="MSShapeGroup"></path>
+            <path d="M34.242317,24.2822375 L27.820368,16.6001325 L23.9671985,23.0463153 L29.9529397,31.7947062 L34.242317,24.2822375 Z" id="Shape" fill="#8FDB69" sketch:type="MSShapeGroup"></path>
+            <path d="M34.1696157,7.60940378 L27.820368,15.3157426 L23.9671985,8.86955982 L29.9529397,0.21810393 L34.1696157,7.60940378 Z" id="Shape" fill="#166DA5" sketch:type="MSShapeGroup"></path>
+            <path d="M14.8068335,7.60940378 L34.1696157,7.60940378 L29.9044722,0.16963639 L19.071977,0.16963639 L14.8068335,7.60940378 Z M27.820368,15.3399764 L38.5316943,15.3399764 L34.6785249,8.84532605 L23.9429648,8.84532605 L27.820368,15.3399764 Z" id="Shape" opacity="0.95" fill="url(#linearGradient-1)" sketch:type="MSShapeGroup"></path>
+            <path d="M34.242317,24.3064713 L14.7825997,24.3064713 L19.0477432,31.6977712 L29.9529397,31.6977712 L34.242317,24.3064713 Z M27.820368,16.5758987 L38.5316943,16.5758987 L34.6785249,23.070549 L23.9429648,23.070549 L27.820368,16.5758987 Z" id="Shape" opacity="0.95" fill="url(#linearGradient-2)" sketch:type="MSShapeGroup"></path>
+            <path d="M19.0477432,31.6977712 L9.9358457,15.9458207 L19.1689121,0.19387016 L9.18459883,0.19387016 L0.09693508,15.9458207 L9.18459883,31.6977712 L19.0477432,31.6977712 Z" id="Shape" fill="#010101" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
