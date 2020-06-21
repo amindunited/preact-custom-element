@@ -1,5 +1,11 @@
 # @amindunited/preact-custom-element
 
+<p align="center">
+
+![Preactjs Logo](./docs/assets/images/preact-logo.svg) 
+![WebComponents Logo](./docs/assets/images/webcomponents-logo.svg)
+
+</p>
 
 ## **This is a Fork of [Preact Custom Element](https://github.com/preactjs/preact-custom-element/)**
 
@@ -12,6 +18,11 @@ This fork was created to get around the following issues:
 For which the accepted fixes did not solve the problem.
 
 If these issues do not effect your project, I strongly recomend using the original library.
+
+## Repository and Branching
+
+ - The default branch of this repository is **amu-trunk**
+ - The integration branch (latest changes) is **amu-integration**
 
 ## Original Readme Content
 
