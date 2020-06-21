@@ -1,4 +1,19 @@
-# preact-custom-element
+# @amindunited/preact-custom-element
+
+
+## **This is a Fork of [Preact Custom Element](https://github.com/preactjs/preact-custom-element/)**
+
+I am not the original Author. I'm am very greatful to those who contributed to the original source.
+
+This fork was created to get around the following issues:
+  - [preact-custom-element issue 18](https://github.com/preactjs/preact-custom-element/issues/18)
+  - [preact-custom-element issue 32](https://github.com/preactjs/preact-custom-element/issues/32)
+
+For which the accepted fixes did not solve the problem.
+
+If these issues do not effect your project, I strongly recomend using the original library.
+
+## Original Readme Content
 
 Generate/register a custom element from a preact component. As of 3.0.0, this library implements the Custom Elements v1 spec.
 Previous versions (< 3.0.0) implemented the v0 proposal, which was only implemented in Chrome and is abandoned.
